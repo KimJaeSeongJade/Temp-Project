@@ -104,3 +104,6 @@ InitTestScene*.unity*
 
 # Auto-generated cache in Assets folder
 /[Aa]ssets/[Ss]ceneDependencyCache*
+
+# Unity MCP 연결 설정 - 포트가 프로젝트 경로마다 달라 팀원 각자 Configure로 만든다
+.mcp.json
